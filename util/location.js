@@ -1,4 +1,4 @@
-const GOOGLE_API_KEY = 'xxxxxxxx';
+import { GOOGLE_API_KEY } from "../constants/keys";
 
 export function getMapPreview(lat, lng) {
 
